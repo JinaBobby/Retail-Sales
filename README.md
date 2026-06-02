@@ -145,6 +145,10 @@ Revenue = Price × Quantity × (1 - Discount)
 * Customer Analysis
 * Interactive Filters & Slicers
 * Drill-through Reporting
+  <img width="1157" height="641" alt="image" src="https://github.com/user-attachments/assets/f7f73f21-e798-4116-ae51-46b74de420ee" />
+  <img width="1088" height="586" alt="image" src="https://github.com/user-attachments/assets/c3283819-54f7-4350-8aa2-5ae1f9242533" />
+
+
 
 ---
 
@@ -187,10 +191,4 @@ Retail-Sales/
 
 ---
 
-## Author
 
-**Jina Bobby**
-
-B.Tech Artificial Intelligence and Data Science
-
-Muthoot Institute of Technology and Science
